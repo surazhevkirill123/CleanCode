@@ -17,4 +17,4 @@ C# version
 
 Java - refactored version
 =============
-* Ilya Torch
+* Surazhev Kirill
